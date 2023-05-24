@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "AA443637AFE3677D6EADBCBD9D5DEEBD",
+  "keywordClasses": [
+    {
+      "name": "helper.swipe",
+      "keywordMethods": [
+        {
+          "name": "swipeVerticalDown",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
